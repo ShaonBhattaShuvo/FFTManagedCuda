@@ -5,7 +5,7 @@ using System;
 
 namespace FFTManagedCUDA
 {
-    class Program
+    class FFTCuda
     {
         static void Main(string[] args)
         {
