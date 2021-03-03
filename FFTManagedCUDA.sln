@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFTManagedCUDA", "FFTManagedCUDA.csproj", "{5D763432-87E0-4D89-BE0B-431D65ADC1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D763432-87E0-4D89-BE0B-431D65ADC1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D763432-87E0-4D89-BE0B-431D65ADC1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D763432-87E0-4D89-BE0B-431D65ADC1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D763432-87E0-4D89-BE0B-431D65ADC1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109A3F4E-4DCF-48F9-BF5D-BC15EE2CB7AE}
+	EndGlobalSection
+EndGlobal

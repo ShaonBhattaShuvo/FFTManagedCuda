@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaQCMyUkz8WaCz7DYYcLE1/HrdmEDwFp60WB5HrMFd1ZsbNsuYN3cAGQ0xvC8zVKR+JOcbS/dITcDbtdIamySw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\source\\repos\\FFTManagedCUDA\\FFTManagedCUDA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\managedcuda\\10.0.0\\managedcuda.10.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
